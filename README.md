@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;    
   <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;  
-  <img src="https://img.shields.io/badge/linux%20-%23000.svg?&style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase%20-%23FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;    
