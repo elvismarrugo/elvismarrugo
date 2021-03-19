@@ -1,7 +1,9 @@
 <h1 align='center'>Hola 👋, Soy Elvix Marrugo 🧑‍💻</h1>
 
 <p align='center'>
-  Desarrollador de software: Javascript, React, SASS, NodeJS. 
+  Desarrollador de software: Javascript, React, SASS, NodeJS.   
+</p>
+<p align='center'>  
   Contador: Experto en impuestos y Excel VBA. 
   Mi amplia experiencia en el area contable, me permite crear soluciones increíbles que facilitan los procesos del mundo empresarial.
 </p>
